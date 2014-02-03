@@ -1,0 +1,9 @@
+{
+    "name": "pheat/yii-testmodule",
+    "description": "Yii test module.",
+    "keywords": ["test"],
+    "license": "BSD-3-Clause",
+    "require": {
+        "yiisoft/yii": ">=1.1.14"
+    }
+}
