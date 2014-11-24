@@ -1,5 +1,5 @@
 {
-    "name": "pheat/yii-testmodule",
+    "name": "tbreuss/yii-testmodule",
     "description": "Yii test module.",
     "keywords": ["test"],
     "license": "BSD-3-Clause",
